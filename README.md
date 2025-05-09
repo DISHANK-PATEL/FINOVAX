@@ -82,6 +82,8 @@ FinovaX utilizes a comprehensive technology stack across different layers:
 ![image](https://github.com/user-attachments/assets/5437df1d-b000-4344-9c4c-db5f5fc26f81)
 ![image](https://github.com/user-attachments/assets/6e86fd37-2380-4631-9b5e-47aa1f43a984)
 ![image](https://github.com/user-attachments/assets/9875e934-a194-4eb3-b635-5292b9d885b0)
+![image](https://github.com/user-attachments/assets/65897e8d-904b-4527-b660-21ff5f9ca2a5)
+![image](https://github.com/user-attachments/assets/55db9b6d-503a-4109-9734-3b9852d6c434)
 
 ## Future Roadmap
 
