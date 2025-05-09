@@ -91,3 +91,36 @@ FinovaX utilizes a comprehensive technology stack across different layers:
 - Aadhaar eKYC onboarding
 - Personalized roadmaps with reinforcement learning
 - Voice assistant in English and Hindi
+
+---
+
+##Installation
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/DISHANK-PATEL/FINOVAX.git
+cd FINOVAX
+
+# 2. Start the MCP Server (Node.js) with MongoDB connection
+node dist/index.js "mongodb://localhost:27017/minorProject"
+
+# 3. Start the Frontend
+cd client
+npm install
+npm run dev
+
+# 4. Start the Backend (Node.js)
+cd server
+npm install
+npm start
+
+# 5. Start the Flask Service
+cd backend/flask
+pip install -r requirements.txt
+python app.py
+
+# 6. Start the Zerodha MCP Server
+cd zerodha-mcp
+bun index.ts
+```
+
